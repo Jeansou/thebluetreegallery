@@ -1,0 +1,9 @@
+resources/
+assets/
+content/
+layouts/
+static/
+themes/
+.hugo_build.lock
+config.toml
+netlify.toml
